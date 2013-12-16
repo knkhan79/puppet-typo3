@@ -2,6 +2,9 @@
 
 This puppet module can be used to easily generate (multiple) typo3 projects.
 
+
+This is a fixed version of the typo3 module originally wriiten by tommy-muehle
+
 **Please feel free to give me feedback, feature-requests or new requirements**
 
 ## Install
@@ -9,7 +12,7 @@ This puppet module can be used to easily generate (multiple) typo3 projects.
 Just clone the repo in your modules folder.
 
     # /path/to/modules
-    git clone git@github.com:tommy-muehle/puppet-typo3.git typo3
+    git clone git@github.com:knkhan79/puppet-typo3.git typo3
 
 ## Usage
 
